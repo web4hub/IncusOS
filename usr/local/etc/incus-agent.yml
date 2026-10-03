@@ -1,1 +1,4 @@
-
+features:
+  guestapi: true
+  metrics: true
+  state: true
